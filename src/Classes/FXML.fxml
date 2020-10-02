@@ -1,0 +1,12 @@
+  1. login==> create account{
+    craete 4 databases for inbox and outboxs
+    create an account with autoincreement email id and unique sender email
+    login==> shows that you are logged in and takes you to home 
+    }
+  2.openmail(attachments)
+  3.status opened or not
+  4.client server
+-->input validation
+-->filechooser
+-->interface
+ 

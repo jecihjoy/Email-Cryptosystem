@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/EmailSystem/NewJFrame.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>37</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/Encryption/TextAesTrial.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>47</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jecihjoy/Documents/NetBeansProjects/project/src/EmailSystem/PanelLogin.java</file>
+            <file>file:/C:/Users/jecihjoy/Documents/NetBeansProjects/project/src/EmailSystem/OpenMailDialog.java</file>
+            <file>file:/C:/Users/jecihjoy/Documents/NetBeansProjects/project/src/EmailSystem/login.java</file>
+            <file>file:/C:/Users/jecihjoy/Documents/NetBeansProjects/project/src/EmailSystem/Inbox.java</file>
+            <file>file:/C:/Users/jecihjoy/Documents/NetBeansProjects/project/src/EmailSystem/Outbox.java</file>
+            <file>file:/C:/Users/jecihjoy/Documents/NetBeansProjects/project/src/EmailSystem/tests.java</file>
+            <file>file:/C:/Users/jecihjoy/Documents/NetBeansProjects/project/src/EmailSystem/keyerror.java</file>
+            <file>file:/C:/Users/jecihjoy/Documents/NetBeansProjects/project/src/EmailSystem/AttachEncryption.java</file>
+            <file>file:/C:/Users/jecihjoy/Documents/NetBeansProjects/project/src/EmailSystem/DecryptionPanel.java</file>
+            <file>file:/C:/Users/jecihjoy/Documents/NetBeansProjects/project/src/EmailSystem/CreateAccount.java</file>
+            <file>file:/C:/Users/jecihjoy/Documents/NetBeansProjects/project/src/EmailSystem/Main.java</file>
+            <file>file:/C:/Users/jecihjoy/Documents/NetBeansProjects/project/src/EmailSystem/OpenMail.java</file>
+            <file>file:/C:/Users/jecihjoy/Documents/NetBeansProjects/project/src/EmailSystem/ComposeMail.java</file>
+            <file>file:/C:/Users/jecihjoy/Documents/NetBeansProjects/project/src/EmailSystem/Home.java</file>
+            <file>file:/C:/Users/jecihjoy/Documents/NetBeansProjects/project/src/EmailSystem/EnterKeyDialog.java</file>
+        </group>
+    </open-files>
+</project-private>
